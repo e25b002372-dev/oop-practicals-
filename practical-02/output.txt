@@ -1,0 +1,6 @@
+A01: Rs 500
+Paid 300
+A01: Rs 200
+A02: Rs 250
+Payment declined
+A02: Rs 250
