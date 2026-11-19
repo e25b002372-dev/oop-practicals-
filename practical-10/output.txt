@@ -1,0 +1,3 @@
+Withdraw 300: Approved; balance = 700
+Withdraw 0: Amount must be positive; balance = 700
+Withdraw 900: Not enough funds; balance = 700
