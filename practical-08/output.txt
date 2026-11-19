@@ -1,0 +1,3 @@
+Before: light
+After editor change: dark
+Same object: true
