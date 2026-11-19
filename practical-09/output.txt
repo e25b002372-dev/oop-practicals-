@@ -1,0 +1,6 @@
+Top: 2; pop order: 2, 1
+Stack is empty
+Top: 2.5; pop order: 2.5, 1.5
+Stack is empty
+Top: second; pop order: second, first
+Stack is empty
