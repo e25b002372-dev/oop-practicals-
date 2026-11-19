@@ -1,0 +1,6 @@
+1: Asha scored 81
+2: Om scored 74
+3: Sara scored 90
+tellp after writing: 5
+After seekp(2) and replacement: ABXDE
+tellg after seekg(2): 2; character: X
