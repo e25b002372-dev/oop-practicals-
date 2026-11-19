@@ -1,0 +1,11 @@
+Commands: add, search, list, issue, return, quit
+> ID: Title: Author: Added
+> ID: Updated
+> ID: Error: Already issued
+> B01 | Malgudi Days | R. K. Narayan | issued
+> ID: Error: Unknown ID
+> Commands: add, search, list, issue, return, quit
+> ID: B01 | Malgudi Days | R. K. Narayan | issued
+> ID: Updated
+> B01 | Malgudi Days | R. K. Narayan | available
+> 
