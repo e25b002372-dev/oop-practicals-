@@ -1,0 +1,2 @@
+Asha, age 19, ID 101, BSc
+Kabir, age 23, ID 202, MSc, research: Databases
